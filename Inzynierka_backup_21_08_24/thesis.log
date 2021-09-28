@@ -1,0 +1,1552 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.22)  24 AUG 2021 10:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/polski.sty
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Inputenc package detected. Catcodes not changed.
+   Switching to Polish text encoding and Polish maths fonts.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ot4enc.def
+File: ot4enc.def 2020/08/10 v2.0s Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Trying to load font information for OT4+cmr on input line 3
+60.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 360.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen141
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-polish/polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen142
+\pl@down=\dimen143
+\pl@right=\dimen144
+\pl@temp=\dimen145
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen146
+\Hy@linkcounter=\count190
+\Hy@pagecounter=\count191
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count192
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count193
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen147
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count194
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count195
+\c@Item=\count196
+\c@Hfootnote=\count197
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks19
+\float@box=\box47
+\@float@everytoks=\toks20
+\@floatcapt=\box48
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/chronosys/chronosys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box49
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count267
+\c@pgf@countb=\count268
+\c@pgf@countc=\count269
+\c@pgf@countd=\count270
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count271
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count272
+\pgfsyssoftpath@bigbuffer@items=\count273
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count274
+\pgfmath@box=\box50
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count275
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count276
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen181
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen185
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count277
+\pgf@shadingcount=\count278
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box54
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box55
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count279
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count280
+\tikznumberofchildren=\count281
+\tikznumberofcurrentchild=\count282
+\tikz@fig@count=\count283
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count284
+\pgfmatrixcurrentcolumn=\count285
+\pgf@matrix@numberofcolumns=\count286
+)
+\tikz@expandcount=\count287
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/chronosys/chronosyschr.tex
+\chrhelpmessage=\toks33
+\chrerrormessage=\toks34
+\!chrheight=\dimen256
+\!chrstartyear=\count288
+\!chrstopyear=\count289
+\!chrwidth=\dimen257
+\!chrarrowwidth=\dimen258
+\!chrarrowheight=\dimen259
+\!chrflechebox=\box60
+\!chr!realwidth=\dimen260
+\!chr!unitperyear=\dimen261
+\!chrdateselevation=\dimen262
+\!chrskipbefore=\dimen263
+\!chrskipafter=\dimen264
+\!chr!periodecolornum=\count290
+\!chr!starttingtraitement=\count291
+\!chr!dimentraitement=\dimen265
+\!chrperiodtextdepth=\dimen266
+\!chrperioddateselevation=\dimen267
+\!chrperiodeventtextwidth=\dimen268
+\!chrperiodbottomdepth=\dimen269
+\!chrperiodtopheight=\dimen270
+\!chrperiodecoloralternancetotalnum=\count292
+\!chreventmarkdepth=\dimen271
+\!chreventiconheight=\dimen272
+\!chrstopwidth=\dimen273
+\!chrgraduationcount=\count293
+\!chrgraduationcount@ux=\count294
+)
+Package: chronosys 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count295
+\lst@gtempboxa=\box61
+\lst@token=\toks35
+\lst@length=\count296
+\lst@currlwidth=\dimen274
+\lst@column=\count297
+\lst@pos=\count298
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count299
+\lst@lineno=\count300
+\lst@maxwidth=\dimen277
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count301
+\lst@skipnumbers=\count302
+\lst@framebox=\box62
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/01/20 v3.7 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count303
+\FV@InFile=\read4
+\FV@TabBox=\box63
+\c@FancyVerbLine=\count304
+\FV@StepNumber=\count305
+\FV@OutFile=\write4
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count306
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box64
+\rot@mess@toks=\toks36
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box65
+)
+(./thesis.aux (./chapters/wklad.aux) (./chapters/cel.aux)
+(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux)
+(./chapters/chapter4.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen278
+\scratchbox=\box66
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen279
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks38
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 86.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count314
+)
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
+ (./thesis.out) (./thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+\c@lstlisting=\count315
+<images/logo_pl.jpg, id=294, 417.7206pt x 62.1522pt>
+File: images/logo_pl.jpg Graphic file (type jpg)
+<use images/logo_pl.jpg>
+Package pdftex.def Info: images/logo_pl.jpg  used on input line 104.
+(pdftex.def)             Requested size: 433.62pt x 64.51726pt.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
+20.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
+120.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
+120.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 120.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 120.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 120.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/logo_pl.jpg>]
+\openout2 = `chapters/wklad.aux'.
+
+ (./chapters/wklad.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Overfull \hbox (60.09523pt too wide) in paragraph at lines 26--27
+[]\OT4/cmr/m/n/12 .............................................................
+.| 
+ []
+
+) [2
+
+
+] (./thesis.toc [1
+
+
+
+
+] [2])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [3] (./thesis.lof [4
+
+])
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+ [5] (./thesis.lot)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [6
+
+]
+(./thesis.lol)
+\tf@lol=\write9
+\openout9 = `thesis.lol'.
+
+ [7
+
+]
+\openout2 = `chapters/cel.aux'.
+
+ (./chapters/cel.tex)pdfTeX warning (ext4): destination with the same identifie
+r (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \include{chapters/cel}
+                             % cel.tex file [1
+
+
+
+]
+\openout2 = `chapters/chapter1.aux'.
+
+ (./chapters/chapter1.tex
+Rozdzia\l  1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 
+     [2
+
+
+
+
+]
+chronosys : option  align ligne 25 non reconnue, impossible de lui affecter la 
+valeur left
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+
+ []
+
+[3]
+Underfull \hbox (badness 1253) in paragraph at lines 247--247
+\OT4/cmr/m/n/12 mo»na prze-szu-ki-wa¢ wg okre-±lo-nych
+ []
+
+[4pdfTeX warning (ext4): destination with the same identifier (name{table.1.1})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.258 
+      ]
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 300--307
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OT4+cmtt on input line 
+313.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polski/ot4cmtt.fd
+File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+) [6]
+<images/chapter1/tokenizacja.pdf, id=635, 748.7975pt x 85.31876pt>
+File: images/chapter1/tokenizacja.pdf Graphic file (type pdf)
+<use images/chapter1/tokenizacja.pdf>
+Package pdftex.def Info: images/chapter1/tokenizacja.pdf  used on input line 32
+5.
+(pdftex.def)             Requested size: 411.93767pt x 46.93716pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.337 
+       <./images/chapter1/tokenizacja.pdf>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 370--372
+
+ []
+
+[9]
+<images/chapter1/shallowParsing.pdf, id=658, 748.7975pt x 142.5325pt>
+File: images/chapter1/shallowParsing.pdf Graphic file (type pdf)
+<use images/chapter1/shallowParsing.pdf>
+Package pdftex.def Info: images/chapter1/shallowParsing.pdf  used on input line
+ 402.
+(pdftex.def)             Requested size: 411.93767pt x 78.41267pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--412
+
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.413 \noindent
+                Wszystkie wyÅ¼ej opisane zabiegi stosuje siÄ™ po to Å¼eby ja...
+ <./images/chapter1/shallowParsing.pdf>]
+<images/chapter1/machineLearning.pdf, id=677, 748.7975pt x 370.38374pt>
+File: images/chapter1/machineLearning.pdf Graphic file (type pdf)
+<use images/chapter1/machineLearning.pdf>
+Package pdftex.def Info: images/chapter1/machineLearning.pdf  used on input lin
+e 425.
+(pdftex.def)             Requested size: 325.215pt x 160.8613pt.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.433 	\item U
+              czenie nadzorowane (\textit{supervised learning}) --- maszyna ...
+ <./images/chapter1/machineLearning.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+[14]
+<images/chapter1/overfitting.pdf, id=725, 748.7975pt x 341.275pt>
+File: images/chapter1/overfitting.pdf Graphic file (type pdf)
+<use images/chapter1/overfitting.pdf>
+Package pdftex.def Info: images/chapter1/overfitting.pdf  used on input line 49
+8.
+(pdftex.def)             Requested size: 411.93767pt x 187.74869pt.
+ [15])
+Overfull \hbox (8.45758pt too wide) in paragraph at lines 508--191
+\OT4/cmr/m/n/12 li-zo-wa-nym tek-±cie. Za-im-ple-men-to-wana jest ona w pa-kie-
+cie [][]\OT4/cmtt/m/n/12 sklearn.feature_extract-
+ []
+
+
+Overfull \hbox (3.88608pt too wide) in paragraph at lines 508--191
+\OT4/cmr/m/n/12 mocy wy-kre-sów u»y-wa-j¡c me-tody [][]\OT4/cmtt/m/n/12 FreqDis
+tVisualizer []\OT4/cmr/m/n/12 z pa-kietu [][]\OT4/cmtt/m/n/12 yellowbrick.text[
+]\OT4/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--191
+
+ []
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.1.4
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.191 \include{chapters/chapter1}
+                                  <./images/chapter1/overfitting.pdf>]
+\openout2 = `chapters/chapter2.aux'.
+
+
+(./chapters/chapter2.tex
+Rozdzia\l  2.
+[17
+
+
+
+
+]
+<images/chapter2/decision_tree.pdf, id=750, 597.23125pt x 641.39626pt>
+File: images/chapter2/decision_tree.pdf Graphic file (type pdf)
+<use images/chapter2/decision_tree.pdf>
+Package pdftex.def Info: images/chapter2/decision_tree.pdf  used on input line 
+19.
+(pdftex.def)             Requested size: 260.17464pt x 279.41617pt.
+ [18pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.26 \subsection
+                {Konstrukcja lasu losowego} <./images/chapter2/decision_tree.pd
+f>] [19] [20]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/SVM.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/chapter2/SVM.pdf, id=773, 531.83293pt x 383.66638pt>
+File: images/chapter2/SVM.pdf Graphic file (type pdf)
+<use images/chapter2/SVM.pdf>
+Package pdftex.def Info: images/chapter2/SVM.pdf  used on input line 65.
+(pdftex.def)             Requested size: 260.17464pt x 187.69374pt.
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.85 
+      <./images/chapter2/SVM.pdf>] [22]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/perceptron
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<images/chapter2/perceptron.pdf, id=800, 842.22345pt x 311.31691pt>
+File: images/chapter2/perceptron.pdf Graphic file (type pdf)
+<use images/chapter2/perceptron.pdf>
+Package pdftex.def Info: images/chapter2/perceptron.pdf  used on input line 113
+.
+(pdftex.def)             Requested size: 260.17464pt x 96.16997pt.
+<images/chapter2/ann-layers.pdf, id=801, 845.1575pt x 597.23125pt>
+File: images/chapter2/ann-layers.pdf Graphic file (type pdf)
+<use images/chapter2/ann-layers.pdf>
+Package pdftex.def Info: images/chapter2/ann-layers.pdf  used on input line 122
+.
+(pdftex.def)             Requested size: 390.25534pt x 275.7777pt.
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.129 	\item F
+              unkcja sigmoidalnapdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.2.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.129 	\item F
+              unkcja sigmoidalna <./images/chapter2/perceptron.pdf> <./images/c
+hapter2/ann-layers.pdf>] [24]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/filter.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/chapter2/filter.pdf, id=826, 844.92844pt x 140.65973pt>
+File: images/chapter2/filter.pdf Graphic file (type pdf)
+<use images/chapter2/filter.pdf>
+Package pdftex.def Info: images/chapter2/filter.pdf  used on input line 160.
+(pdftex.def)             Requested size: 346.89731pt x 57.75026pt.
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/layered-co
+nv.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
+wed
+<images/chapter2/layered-conv.pdf, id=829, 847.2629pt x 438.32048pt>
+File: images/chapter2/layered-conv.pdf Graphic file (type pdf)
+<use images/chapter2/layered-conv.pdf>
+Package pdftex.def Info: images/chapter2/layered-conv.pdf  used on input line 1
+71.
+(pdftex.def)             Requested size: 346.89731pt x 179.46509pt.
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.175 
+       <./images/chapter2/filter.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/w2vpng.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/chapter2/w2vpng.pdf, id=838, 833.7817pt x 594.88919pt>
+File: images/chapter2/w2vpng.pdf Graphic file (type pdf)
+<use images/chapter2/w2vpng.pdf>
+Package pdftex.def Info: images/chapter2/w2vpng.pdf  used on input line 183.
+(pdftex.def)             Requested size: 346.89731pt x 247.50983pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.200 
+       <./images/chapter2/layered-conv.pdf>] [27pdfTeX warning (ext4): destinat
+ion with the same identifier (name{figure.2.7}) has been already used, duplicat
+e ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.210 	
+        <./images/chapter2/w2vpng.pdf>]
+Overfull \hbox (5.15886pt too wide) in paragraph at lines 213--214
+[][][]\OT4/cmtt/m/n/12 keras.layers.GlobalMaxPooling1D []\OT4/cmr/m/n/12 war-st
+wa typu \OT4/cmr/m/it/12 po-oling\OT4/cmr/m/n/12 , bio-r¡ca mak-sy-maln¡
+ []
+
+<images/chapter2/rnn.pdf, id=854, 1707.1653pt x 569.05513pt>
+File: images/chapter2/rnn.pdf Graphic file (type pdf)
+<use images/chapter2/rnn.pdf>
+Package pdftex.def Info: images/chapter2/rnn.pdf  used on input line 237.
+(pdftex.def)             Requested size: 411.93767pt x 137.30539pt.
+[28] [29pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.246 
+       <./images/chapter2/rnn.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter2/ensemble.p
+df): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/chapter2/ensemble.pdf, id=882, 848.00684pt x 347.36226pt>
+File: images/chapter2/ensemble.pdf Graphic file (type pdf)
+<use images/chapter2/ensemble.pdf>
+Package pdftex.def Info: images/chapter2/ensemble.pdf  used on input line 264.
+(pdftex.def)             Requested size: 433.62pt x 177.61884pt.
+) [30] [31pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.2.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.193 \include{chapters/chapter2}
+                                  <./images/chapter2/ensemble.pdf>]
+\openout2 = `chapters/chapter3.aux'.
+
+
+(./chapters/chapter3.tex
+Rozdzia\l  3.
+
+Overfull \hbox (8.81563pt too wide) in paragraph at lines 5--6
+\OT4/cmr/m/n/12 nik w Go-ogle Co-lab zin-te-gro-wany z Dy-kiem Go-ogle i wczy-t
+a-ªy-±my dane do [][]\OT4/cmtt/m/n/12 DataFrame[]\OT4/cmr/m/n/12 'a. 
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+<images/chapter3/raw-data-example.pdf, id=898, 748.7975pt x 285.065pt>
+File: images/chapter3/raw-data-example.pdf Graphic file (type pdf)
+<use images/chapter3/raw-data-example.pdf>
+Package pdftex.def Info: images/chapter3/raw-data-example.pdf  used on input li
+ne 22.
+(pdftex.def)             Requested size: 411.93767pt x 156.82538pt.
+[32
+
+
+
+
+]
+<images/chapter3/cleaned-data-example.pdf, id=910, 748.7975pt x 285.065pt>
+File: images/chapter3/cleaned-data-example.pdf Graphic file (type pdf)
+<use images/chapter3/cleaned-data-example.pdf>
+Package pdftex.def Info: images/chapter3/cleaned-data-example.pdf  used on inpu
+t line 43.
+(pdftex.def)             Requested size: 411.93767pt x 156.82538pt.
+ [33pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.49 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.49 
+      <./images/chapter3/raw-data-example.pdf> <./images/chapter3/cleaned-data-
+example.pdf>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+9.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+
+[34] [35pdfTeX warning (ext4): destination with the same identifier (name{table
+.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.126 			min_impurity_split=None,
+                                 ]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/rf-macierz
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<images/chapter3/rf-macierz.pdf, id=968, 732.90445pt x 745.95613pt>
+File: images/chapter3/rf-macierz.pdf Graphic file (type pdf)
+<use images/chapter3/rf-macierz.pdf>
+Package pdftex.def Info: images/chapter3/rf-macierz.pdf  used on input line 151
+.
+(pdftex.def)             Requested size: 216.81pt x 220.6698pt.
+
+Overfull \hbox (2.36159pt too wide) in paragraph at lines 156--157
+\OT4/cmr/m/n/12 Kolorem gra-na-to-wym zo-staªy ozna-czone war-to-±ci prze-wi-dz
+iane pra-wi-dªowo przez skon-
+ []
+
+[36pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.157 
+       <./images/chapter3/rf-macierz.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/rf-feature
+-import.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<images/chapter3/rf-feature-import.pdf, id=980, 1277.06088pt x 1132.48792pt>
+File: images/chapter3/rf-feature-import.pdf Graphic file (type pdf)
+<use images/chapter3/rf-feature-import.pdf>
+Package pdftex.def Info: images/chapter3/rf-feature-import.pdf  used on input l
+ine 180.
+(pdftex.def)             Requested size: 238.49231pt x 211.49422pt.
+[37]
+<images/chapter3/rf-lime.pdf, id=998, 748.7975pt x 455.7025pt>
+File: images/chapter3/rf-lime.pdf Graphic file (type pdf)
+<use images/chapter3/rf-lime.pdf>
+Package pdftex.def Info: images/chapter3/rf-lime.pdf  used on input line 190.
+(pdftex.def)             Requested size: 346.89731pt x 211.11372pt.
+ [38pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.196 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.196 
+       <./images/chapter3/rf-feature-import.pdf> <./images/chapter3/rf-lime.pdf
+>]
+Overfull \hbox (1.90334pt too wide) in paragraph at lines 198--199
+[][]\OT4/cmtt/m/n/12 sklearn.svm[]\OT4/cmr/m/n/12 . Do-dat-kowo przy u»y-ciu kl
+asy [][]\OT4/cmtt/m/n/12 RandomizedSearchCV []\OT4/cmr/m/n/12 oraz [][]\OT4/cmt
+t/m/n/12 GridSearchCV
+ []
+
+<images/chapter3/param-C.pdf, id=1023, 748.7975pt x 285.065pt>
+File: images/chapter3/param-C.pdf Graphic file (type pdf)
+<use images/chapter3/param-C.pdf>
+Package pdftex.def Info: images/chapter3/param-C.pdf  used on input line 203.
+(pdftex.def)             Requested size: 368.57964pt x 140.31813pt.
+
+Overfull \hbox (19.95026pt too wide) in paragraph at lines 209--210
+\OT4/cmr/m/n/12 Pierwsza opty-ma-li-za-cja (SVM[]1) zo-staªa wy-ko-nana z u»y-c
+iem klasy [][]\OT4/cmtt/m/n/12 RandomizedSearchCV
+ []
+
+[39pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.219 grid_count2 
+                  = RandomizedSearchCV(LinearSVC(max_iter=5000), params, ref...
+ <./images/chapter3/param-C.pdf>] [40pdfTeX warning (ext4): destination with th
+e same identifier (name{table.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.276 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.3
+.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.276 
+      ]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/svc-macier
+z.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<images/chapter3/svc-macierz.pdf, id=1072, 732.90445pt x 745.95613pt>
+File: images/chapter3/svc-macierz.pdf Graphic file (type pdf)
+<use images/chapter3/svc-macierz.pdf>
+Package pdftex.def Info: images/chapter3/svc-macierz.pdf  used on input line 31
+1.
+(pdftex.def)             Requested size: 216.81pt x 220.6698pt.
+[41]
+Overfull \hbox (2.36159pt too wide) in paragraph at lines 316--317
+\OT4/cmr/m/n/12 Kolorem gra-na-to-wym zo-staªy ozna-czone war-to-±ci prze-wi-dz
+iane pra-wi-dªowo przez skon-
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+33.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 333.
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.334 	
+       plt.bar(np.arange(2 * top_features), coef[top_coefficients], color=co...
+ <./images/chapter3/svc-macierz.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/svc-visual
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<images/chapter3/svc-visual.pdf, id=1103, 1474.84473pt x 726.8806pt>
+File: images/chapter3/svc-visual.pdf Graphic file (type pdf)
+<use images/chapter3/svc-visual.pdf>
+Package pdftex.def Info: images/chapter3/svc-visual.pdf  used on input line 345
+.
+(pdftex.def)             Requested size: 433.62pt x 213.70699pt.
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.358 import 
+             re <./images/chapter3/svc-visual.pdf>] [44]
+<images/chapter3/w2v-dframe.pdf, id=1151, 626.34pt x 285.065pt>
+File: images/chapter3/w2v-dframe.pdf Graphic file (type pdf)
+<use images/chapter3/w2v-dframe.pdf>
+Package pdftex.def Info: images/chapter3/w2v-dframe.pdf  used on input line 416
+.
+(pdftex.def)             Requested size: 433.62pt x 197.36057pt.
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.431 
+       <./images/chapter3/w2v-dframe.pdf>]
+<images/chapter3/w2v-kropki.pdf, id=1172, 435.6275pt x 455.7025pt>
+File: images/chapter3/w2v-kropki.pdf Graphic file (type pdf)
+<use images/chapter3/w2v-kropki.pdf>
+Package pdftex.def Info: images/chapter3/w2v-kropki.pdf  used on input line 435
+.
+(pdftex.def)             Requested size: 411.93767pt x 430.91927pt.
+ [46pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.442 
+       <./images/chapter3/w2v-kropki.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/w2v-percen
+tyle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
+lowed
+<images/chapter3/w2v-percentyle.pdf, id=1183, 1223.85pt x 1184.69481pt>
+File: images/chapter3/w2v-percentyle.pdf Graphic file (type pdf)
+<use images/chapter3/w2v-percentyle.pdf>
+Package pdftex.def Info: images/chapter3/w2v-percentyle.pdf  used on input line
+ 446.
+(pdftex.def)             Requested size: 325.215pt x 314.81032pt.
+[47pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.457 
+       <./images/chapter3/w2v-percentyle.pdf>] [48]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/cnn-macier
+z.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<images/chapter3/cnn-macierz.pdf, id=1214, 732.90445pt x 745.95613pt>
+File: images/chapter3/cnn-macierz.pdf Graphic file (type pdf)
+<use images/chapter3/cnn-macierz.pdf>
+Package pdftex.def Info: images/chapter3/cnn-macierz.pdf  used on input line 53
+1.
+(pdftex.def)             Requested size: 216.81pt x 220.6698pt.
+
+Overfull \hbox (2.36159pt too wide) in paragraph at lines 527--534
+\OT4/cmr/m/n/12 Kolorem gra-na-to-wym zo-staªy ozna-czone war-to-±ci prze-wi-dz
+iane pra-wi-dªowo przez skon-
+ []
+
+[49] [50pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.3.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.557 \newpage
+               <./images/chapter3/cnn-macierz.pdf>]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/chapter3/lstm-macie
+rz.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
+wed
+<images/chapter3/lstm-macierz.pdf, id=1249, 732.90445pt x 745.95613pt>
+File: images/chapter3/lstm-macierz.pdf Graphic file (type pdf)
+<use images/chapter3/lstm-macierz.pdf>
+Package pdftex.def Info: images/chapter3/lstm-macierz.pdf  used on input line 6
+07.
+(pdftex.def)             Requested size: 216.81pt x 220.6698pt.
+[51]
+Overfull \hbox (2.36159pt too wide) in paragraph at lines 612--613
+\OT4/cmr/m/n/12 Kolorem gra-na-to-wym zo-staªy ozna-czone war-to-±ci prze-wi-dz
+iane pra-wi-dªowo przez skon-
+ []
+
+[52pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.624 cnn_lstm_predictions
+                           <./images/chapter3/lstm-macierz.pdf>]
+<images/chapter3/cnn-lstm.pdf, id=1274, 313.17pt x 285.065pt>
+File: images/chapter3/cnn-lstm.pdf Graphic file (type pdf)
+<use images/chapter3/cnn-lstm.pdf>
+Package pdftex.def Info: images/chapter3/cnn-lstm.pdf  used on input line 630.
+(pdftex.def)             Requested size: 238.49231pt x 217.09532pt.
+<images/chapter3/cnn-lstm-macierz.pdf, id=1275, 313.17pt x 285.065pt>
+File: images/chapter3/cnn-lstm-macierz.pdf Graphic file (type pdf)
+<use images/chapter3/cnn-lstm-macierz.pdf>
+Package pdftex.def Info: images/chapter3/cnn-lstm-macierz.pdf  used on input li
+ne 640.
+(pdftex.def)             Requested size: 238.49231pt x 217.09532pt.
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.646 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.646 
+       <./images/chapter3/cnn-lstm.pdf> <./images/chapter3/cnn-lstm-macierz.pdf
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 666--668
+
+ []
+
+
+Overfull \hbox (78.26907pt too wide) in paragraph at lines 673--687
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--691
+
+ []
+
+[54pdfTeX warning (ext4): destination with the same identifier (name{table.3.4}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.691 
+      ] [55pdfTeX warning (ext4): destination with the same identifier (name{ta
+ble.3.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.691 
+      ]) [56pdfTeX warning (ext4): destination with the same identifier (name{t
+able.3.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.194 \include{chapters/chapter3}
+                                 ]
+\openout2 = `chapters/chapter4.aux'.
+
+ (./chapters/chapter4.tex
+Rozdzia\l  4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--9
+
+ []
+
+
+Overfull \hbox (0.69572pt too wide) in paragraph at lines 11--13
+\OT4/cmr/m/n/12 W wy-niku prze-pro-wa-dzo-nych przez nas ana-liz oraz sy-mu-la-
+cji oka-zaªo si¦, »e ze wzgl¦du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+[57
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+) [58] (./thesis.bbl [59
+
+
+
+] [60]
+Overfull \hbox (3.9927pt too wide) in paragraph at lines 151--153
+[]\OT4/cmr/m/n/12 Youtube: IBM Re-se-arch.  https://www.statista.com/statistics
+/871513/worldwide-
+ []
+
+) [61] (./thesis.aux (./chapters/wklad.aux) (./chapters/cel.aux)
+(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux)
+(./chapters/chapter4.aux))
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 687A8E11974D6BD9484CCD37CA0DDC12;11713.
+ ) 
+Here is how much of TeX's memory you used:
+ 23603 strings out of 478994
+ 416969 string characters out of 5858184
+ 990760 words of memory out of 5000000
+ 40166 multiletter control sequences out of 15000+600000
+ 416397 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,12n,102p,1318b,1938s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{/usr/local/te
+xlive/2021/texmf-dist/fonts/enc/dvips/pl/plms.enc}{/usr/local/texlive/2021/texm
+f-dist/fonts/enc/dvips/pl/plme.enc}{/usr/local/texlive/2021/texmf-dist/fonts/en
+c/dvips/pl/plmi.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plit
+.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/pl/pltt.enc}</usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/pl/plbxti10.pfb></usr/local/texlive/2021/texmf-dist/font
+s/type1/public/pl/plex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pu
+blic/pl/plmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/pl
+mi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/plr10.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/plr12.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/pl/plr17.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/pl/plr6.pfb></usr/local/texlive/2021/texmf-dist/f
+onts/type1/public/pl/plr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/p
+ublic/pl/plsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/p
+lsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/plti12.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/pl/pltt12.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on thesis.pdf (70 pages, 3320273 bytes).
+PDF statistics:
+ 1495 PDF objects out of 1728 (max. 8388607)
+ 1283 compressed objects within 13 object streams
+ 421 named destinations out of 1000 (max. 500000)
+ 734 words of extra memory for PDF output out of 10000 (max. 10000000)
+
